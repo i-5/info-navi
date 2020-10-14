@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  J-PopNavi
+
+  Created by Damon Lok on 11/9/11.
+  Copyright 2011 ios-dev.webs.com. All rights reserved.
+*/
+
+"Close Button Title" =  "閉じる";
+"First Tab Title String" = "Website 情報";
+"Second Tab Title String" = "ツイッター口コミ";
+"Third Tab Title String" = "最新情報";
+"Forth Tab Title String" = "検索";
+"Fifth Tab Title String" = "ビデオ";
+"Language parameter" = "&lr=lang_ja";
+"Search URL Criteria" = "日韓人気音樂";
+"Twitter Search Criteria" = "J Pop K Pop";
+"Twitter Language Criteria" = "ja";
+"Yahoo Language Criteria" = "ja";
+"Google Reader Language Criteria" = "2720454201302907140";
+"YouTube Criteria" = "日韓人気音樂";

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A Parameter String</key>
+	<string>GOOGLE</string>
+	<key>AdMob Publisher ID</key>
+	<string>a14e8e3d0565c53</string>
+	<key>Alert Creation URL</key>
+	<string>http://www.google.com/alerts/create?hl=en</string>
+	<key>Alert Parameter String</key>
+	<string>x=AMJHsmWJRwWToGpeEemJYMIexeWv4YbICg%3A1316566513358&amp;t=7&amp;f=1&amp;l=0&amp;e=</string>
+	<key>C Parameter String</key>
+	<string>http://www.google.com/</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>Icon.png</string>
+		<string>Icon~ipad.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.webs.ios-dev.${PRODUCT_NAME:rfc1034identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.11</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.11</string>
+	<key>Extra Google Properties</key>
+	<string>;domain=.google.com;path=/;expires=1600000000</string>
+	<key>Google API Key</key>
+	<string>AIzaSyB0wPGvo1JdN0oF03MHdPucgcPFRiohKWU</string>
+	<key>Google Custom API Search URL</key>
+	<string>https://www.googleapis.com/customsearch/v1?key=AIzaSyD7Ml6U7Rq9aI6UJVlEbmOlADzA_xZcinE&amp;cx=004917562208306406233:2bm0qdnkmsw&amp;q=</string>
+	<key>Google Feed Ajax Search URL</key>
+	<string>https://ajax.googleapis.com/ajax/services/feed/find?v=1.0&amp;num=100&amp;q=</string>
+	<key>Google Reader URL</key>
+	<string>http://www.google.com/reader/public/atom/user/05603045499120359878/state/com.google/alerts/</string>
+	<key>Google Search URL End</key>
+	<string>&amp;aq=0&amp;aqi=g2g-r1g1g-r1&amp;aql=&amp;gs_sm=&amp;gs_upl=&amp;bav=on.2,or.r_gc.r_pw.,cf.osb&amp;fp=4850e8c47a365e88&amp;biw=1069&amp;bih=623</string>
+	<key>Google Search URL Front</key>
+	<string>http://www.google.co.jp/#hl=en&amp;gs_is=1&amp;cp=0&amp;gs_id=17&amp;xhr=t&amp;q=</string>
+	<key>Google Search URL Middle</key>
+	<string>&amp;pf=p&amp;sclient=psy&amp;safe=active&amp;source=hp&amp;pbx=1&amp;oq=</string>
+	<key>I Parameter String</key>
+	<string>ios.dev.works@gmail.com</string>
+	<key>IS Parameter String</key>
+	<string>works.dev.ios</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Login URL</key>
+	<string>https://www.google.com/accounts/ClientLogin</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>NSMainNibFile~ipad</key>
+	<string>MainWindow-iPad</string>
+	<key>S Parameter String</key>
+	<string>reader</string>
+	<key>SU Parameter String</key>
+	<string>iosdev-infoNavi-0.1</string>
+	<key>Token URL</key>
+	<string>http://www.google.com/reader/api/0/token</string>
+	<key>Twitter Search URL</key>
+	<string>http://search.twitter.com/search.json?q=</string>
+	<key>Twitter Search URL Lang Part</key>
+	<string>&amp;lang=</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIUpgradeOtherBundleIdentifier</key>
+	<string></string>
+	<key>Yahoo JP Search URL</key>
+	<string>http://search.yahooapis.jp/WebSearchService/V2/webSearch?appid=EmsA8Rmxg66lnPNp8U3YLhUg_24Q7tqvq9bbNOwGqAsYh4kMHCp_iCE._dArmQiXYvON2d0-&amp;results=50&amp;query=</string>
+	<key>Yahoo Lang Criteria</key>
+	<string>&amp;language=</string>
+	<key>Yahoo US Key</key>
+	<string>dj0yJmk9QmZIcUt3ejk4bmVvJmQ9WVdrOWRHWmpZV2hWTm0wbWNHbzlNVEEzT0RReE5qSTJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD00OA--</string>
+	<key>Yahoo US App ID</key>
+	<string>IOt3epHV34FOXLjqu.XXis6o3rz_Xz5Us3Qv7eMsDbfegthpOx51.yaytKeHxnieaVsJbWY-</string>
+	<key>Yahoo Location Search URL</key>
+	<string>http://local.yahooapis.com/LocalSearchService/V3/localSearch?appid=</string>
+	<key>GeoNames City URL</key>
+	<string>http://api.geonames.org/searchJSON?username=iOSDev&amp;country=</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  InfoNavi
+
+  Created by Damon Lok on 11/9/11.
+  Copyright 2011 ios-dev.webs.com. All rights reserved.
+*/
+
+"Close Button Title" =  "Close";
+"First Tab Title String" = "Nearby Salons";
+"Second Tab Title String" = "Twitter Words";
+"Third Tab Title String" = "Latest Info";
+"Forth Tab Title String" = "Search";
+"Fifth Tab Title String" = "Videos";
+"Language parameter" = "&lr=lang_en";
+"Search URL Criteria" = "Nail Salon";
+"Twitter Search Criteria" = "Nail Salon";
+"Twitter Language Criteria" = "en";
+"Yahoo Language Criteria" = "en";
+"Google Reader Language Criteria" = "15749656539702949374";
